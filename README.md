@@ -1,4 +1,4 @@
-# cartooniser
+# Image cartoonizer
 # Cartooning an Image using OpenCV – Python
 
 Computer Vision as you know (or even if you don’t) is a very powerful tool with immense possibilities. So, when I set up to prepare a comic of one of my friend’s college life, I soon realized that I needed something that would reduce my efforts of actually painting it but will retain the quality and I came up with the following solution.
